@@ -4,11 +4,11 @@ object ArraysStuff {
 
   def main(args: Array[String]) {
 
-    //-- array: Array[String] = Array(null, null, null)
-    val array = new Array[String](3)
-    
-    array(0) = "This"
-    array(1) = "is"
+    	//-- array: Array[String] = Array(null, null, null)
+    	val array = new Array[String](3)
+    	
+    	array(0) = "This"
+    	array(1) = "is"
 	array(2) = "mutable"
 	
 	//-- relp: res37: Array[String] = Array(This, is, mutable)
